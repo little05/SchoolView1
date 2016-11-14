@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.jju.test3"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="edu.jju.test3.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity 
+            android:name="edu.jju.test3.LifeActivity"></activity>
+        <activity 
+            android:name="edu.jju.test3.PicActivity"></activity>
+        <activity 
+            android:name="edu.jju.test3.YouwanActivity"></activity>
+        <activity 
+            android:name="edu.jju.test3.IntrodActivity"></activity>
+        <activity 
+            android:name="edu.jju.test3.TelphoneActivity"></activity>
+         <activity 
+            android:name="edu.jju.test3.ChuxinActivity"></activity>
+    <activity 
+            android:name="edu.jju.test3.XinshengzhinanActivity"></activity>
+     <activity 
+            android:name="edu.jju.test3.XinshengitemActivity"></activity>
+    <activity 
+            android:name="edu.jju.test3.CampViewActivity"></activity>
+    <activity 
+            android:name="edu.jju.test3.SuosuoActivity"></activity>
+
+        <activity android:name=".bai.BaseMapDemo">
+
+        </activity>
+    
+    </application>
+
+<uses-permission android:name="android.permission.SET_WALLPAPER"/>
+</manifest>

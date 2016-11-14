@@ -1,0 +1,88 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+     <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#000000"
+        android:orientation="horizontal">
+        <ImageView 
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="@drawable/ic_lher"/>
+        <TextView 
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="6dp"
+            android:gravity="center_vertical"
+            android:text="财大通"
+            android:textSize="18sp"
+            android:textColor="#FFFFFF"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/title" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="240dp" >
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="60dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/titlde" />
+
+            <ImageView
+                android:id="@+id/life"
+                android:layout_width="120dp"
+                android:layout_height="70dp"
+                android:layout_margin="10dp"
+                android:background="@drawable/xuexiaoshenghuo" />
+
+            <ImageView
+                android:id="@+id/chuxing"
+                android:layout_width="120dp"
+                android:layout_height="70dp"
+                android:layout_alignParentRight="true"
+                android:layout_margin="10dp"
+                android:background="@drawable/chuxingzhinan" />
+
+            <ImageView
+                android:id="@+id/youwan"
+                android:layout_width="120dp"
+                android:layout_height="70dp"
+                android:layout_alignParentBottom="true"
+                android:layout_margin="15dp"
+                android:background="@drawable/youwannanchang" />
+
+            <ImageView
+                android:id="@+id/tel"
+                android:layout_width="120dp"
+                android:layout_height="70dp"
+                android:layout_alignLeft="@id/chuxing"
+                android:layout_alignTop="@id/youwan"
+                android:layout_margin="10dp"
+                android:background="@drawable/haomabaishitong" />
+        </RelativeLayout>
+
+        <TextView 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="校训：信、敏、廉、毅"
+            android:textSize="30sp"/>
+    </LinearLayout>
+
+</LinearLayout>

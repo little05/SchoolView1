@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title.jpg",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\drawable-xhdpi\\title.jpg"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\campus_life_bg.jpg",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\drawable-xhdpi\\campus_life_bg.jpg"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg.jpg",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\drawable-xhdpi\\bg.jpg"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xiaoyuanshenghuo1.jpg",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\drawable-xhdpi\\xiaoyuanshenghuo1.jpg"
+    }
+]

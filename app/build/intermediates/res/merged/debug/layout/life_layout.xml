@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#000000"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="@drawable/ic_lher" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="6dp"
+            android:gravity="center_vertical"
+            android:text="学校生活"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/xiaoyuanshenghuo1" >
+
+        <TextView
+            android:id="@+id/pic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="165dp"
+            android:text="校区平面图"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/fenj"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/pic"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="15dp"
+            android:text="校园风景"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/zhin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/fenj"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="15dp"
+            android:text="新生指南"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/zhin"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="15dp"
+            android:text="返回"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+</LinearLayout>

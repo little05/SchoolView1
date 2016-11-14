@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SchoolView1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="picname">请选择</string>
+
+    <string-array name="pic_array">
+        <item>交通示意图 </item>
+        <item>蛟桥校区</item>
+        <item>麦庐校区 </item>
+        <item>枫林校区 </item>
+    </string-array>
+
+</resources>

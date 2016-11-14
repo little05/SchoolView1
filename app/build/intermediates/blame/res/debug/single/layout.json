@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popu_layout.xml",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\layout\\popu_layout.xml"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\life_layout.xml",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\layout\\life_layout.xml"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tel_child_layout.xml",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\layout\\tel_child_layout.xml"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\campview_layout.xml",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\layout\\campview_layout.xml"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imgintroduce_layout.xml",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\layout\\imgintroduce_layout.xml"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\insert_tel_layout.xml",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\layout\\insert_tel_layout.xml"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_layout.xml",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\layout\\test_layout.xml"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\suosuo_layout.xml",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\layout\\suosuo_layout.xml"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\telphone_layout.xml",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\layout\\telphone_layout.xml"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xinshengitem_layout.xml",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\layout\\xinshengitem_layout.xml"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xingshengzhin_layout.xml",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\layout\\xingshengzhin_layout.xml"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tel_group_layout.xml",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\layout\\tel_group_layout.xml"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item_layout.xml",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\layout\\listview_item_layout.xml"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pic_layout.xml",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\layout\\pic_layout.xml"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sousuo_item_layout.xml",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\layout\\sousuo_item_layout.xml"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\youwan_layout.xml",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\layout\\youwan_layout.xml"
+    },
+    {
+        "merged": "E:\\software\\projectspace\\SchoolView1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chuxin_layout.xml",
+        "source": "E:\\software\\projectspace\\SchoolView1\\app\\src\\main\\res\\layout\\chuxin_layout.xml"
+    }
+]

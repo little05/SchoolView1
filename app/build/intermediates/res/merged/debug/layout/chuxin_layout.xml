@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#000000"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="@drawable/ic_lher" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="6dp"
+            android:gravity="center_vertical"
+            android:text="出行指南"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/chuxingxinxi" >
+
+        <TextView
+            android:id="@+id/myposition"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="165dp"
+            android:text="我的位置"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/queryline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/myposition"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="15dp"
+            android:text="线路查询"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/querylocation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/queryline"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="15dp"
+            android:text="位置查询"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/querylocation"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="15dp"
+            android:onClick="back"
+            android:text="返回"
+            android:textSize="20sp" />
+    </RelativeLayout>
+    
+
+</LinearLayout>
